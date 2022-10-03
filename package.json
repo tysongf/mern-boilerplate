@@ -1,0 +1,27 @@
+{
+  "name": "mern-boilerplate",
+  "version": "0.0.1",
+  "description": "MERN Boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tysongf/mern-boilerplate.git"
+  },
+  "keywords": [
+    "Mongo",
+    "Express",
+    "React",
+    "Node",
+    "Boilerplate",
+    "Project"
+  ],
+  "author": "Tyson G Fritz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tysongf/mern-boilerplate/issues"
+  },
+  "homepage": "https://github.com/tysongf/mern-boilerplate#readme"
+}
